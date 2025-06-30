@@ -23,4 +23,8 @@ Finally, the outer query selects only the top 2 movies per genre (i.e., where ge
 
 This task effectively demonstrates the use of window functions, multi-table joins, and hierarchical query structuring via CTEs. It replicates real-world scenarios where data from multiple sources needs to be merged, aggregated, ranked, and filtered for analytical reporting. The final output serves as a compact and informative dashboard showing top-rated films by genre and their creators.
 
+OUTPUT:
+
+[Task-2 DATA ANALYSIS.txt](https://github.com/user-attachments/files/20983526/Task-2.DATA.ANALYSIS.txt)
+
 Ask ChatGPT
