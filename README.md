@@ -25,6 +25,6 @@ This task effectively demonstrates the use of window functions, multi-table join
 
 OUTPUT:
 
-[Task-2 DATA ANALYSIS.txt](https://github.com/user-attachments/files/20983626/Task-2.DATA.ANALYSIS.txt)
+![Image](https://github.com/user-attachments/assets/7c5272f4-220e-4442-baca-37912d0dd580)
 
 Ask ChatGPT
